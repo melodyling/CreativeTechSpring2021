@@ -1,3 +1,5 @@
-### Week 2
 
-Project Proposal & System Diagram
+# Week 2
+
+## The Web as a Rube Goldberg Machine
+### Project Proposal & System Diagram
