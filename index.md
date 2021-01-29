@@ -20,4 +20,4 @@ I just want to re-quote this one - the logic of designing a system of logic behi
 ### Project Proposal & System Diagram
 **The Web as a Rube Goldberg Machine**
 
-https://miro.com/app/board/o9J_lXZSoVM=
+https://miro.com/app/board/o9J_lXZSoVM= - automatic!
