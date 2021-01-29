@@ -19,7 +19,7 @@ It's interesting to see how digital products are inherently related to systems. 
 
 I just want to re-quote this one - the logic of designing a system of logic behind a thing is so much harder than designing a thing itself. However, it speaks largely to the resulting efficiency and seamless workflow that it turns out. In the age of mass production, this movement seems to be self-justifiable on its own.  
 
-<br/><br/>
+<br/>
 
 
 ## Project Proposal & System Diagram
