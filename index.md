@@ -1,3 +1,3 @@
-## Week 2
+### Week 2
 
-### Project Proposal & System Diagram
+Project Proposal & System Diagram
