@@ -1,8 +1,6 @@
+# Week 2
 
-
-## Week 2
-
-### Reading Response
+## Reading Response
 **Programming Design Systems**
 
 >"There is a century-long bond between the field of design and new advances in technology, and if graphic designers do not become fluent in this new digital >reality, they will become irrelevant."
@@ -17,7 +15,8 @@ It's interesting to see how digital products are inherently related to systems. 
 
 I just want to re-quote this one - the logic of designing a system of logic behind a thing is so much harder than designing a thing itself. However, it speaks largely to the resulting efficiency and seamless workflow that it turns out. In the age of mass production, this movement seems to be self-justifiable on its own.
 
-### Project Proposal & System Diagram
+
+## Project Proposal & System Diagram
 **The Web as a Rube Goldberg Machine**
 
-https://miro.com/app/board/o9J_lXZSoVM= - automatic!
+https://miro.com/app/board/o9J_lXZSoVM=/
