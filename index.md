@@ -43,7 +43,7 @@ This sentence is really worth highlighting because a current common misperceptio
 
 >"People treat these kinds of algorithms as if they are making recommendations, but it’s a lot more accurate to say that they’re making predictions."
 
-I think biased AI algorithms combining with predictions could be potentially a really dangerous thing, if used in important devision-making process. An example of this kind of threat is predictive policing, as the author mentioned. It is harmful in that the whole system reinforces existing human biases, as AI is unconsciously learning from past human biases and mistakes, and build them into its own system. This ends up creating a feedback loop that creates social hierarchies.
+I think biased AI algorithms combining with predictions could be potentially a really dangerous thing, if used in important decision-making process. An example of this kind of threat is predictive policing, as the author mentioned. It is harmful in that the whole system reinforces existing human biases, as AI is unconsciously learning from past human biases and mistakes, and build them into its own system. This ends up creating a feedback loop that creates social hierarchies.
 
 <br/>
 
