@@ -37,7 +37,7 @@ I just want to re-quote this one - the logic of designing a system of logic behi
 
 >"Sentiment-rating algorithms like this can learn to be biased. The common thread seems to be that if data comes from humans, it will likely have bias in it."
 
-This sentence is really worth highlighting because a current common misperception is that AI is more objective or neutral than human decisions. However, in the end it falls back to the same place because the data from AI all come from human beings, so it is impossible to get rid of biases. What we can do is to ackknowledge it as the first step.
+This sentence is really worth highlighting because a current common misperception is that AI is more objective or neutral than human decisions. However, in the end it falls back to the same place because the data from AI all come from human beings, so it is impossible to get rid of biases. What we can do is to acknowledge it as the first step.
 
 <br/>
 
