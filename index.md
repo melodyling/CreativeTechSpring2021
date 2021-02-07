@@ -26,3 +26,40 @@ I just want to re-quote this one - the logic of designing a system of logic behi
 **The Web as a Rube Goldberg Machine**
 
 <a href="https://miro.com/app/board/o9J_lXZSoVM=/" target="_blank">Link to Board</a>
+
+<br/>
+
+
+# Week 3
+
+## Reading Response
+**You Look Like a Thing and I Love You**
+
+>"Sentiment-rating algorithms like this can learn to be biased. The common thread seems to be that if data comes from humans, it will likely have bias in it."
+
+This sentence is really worth highlighting because a current common misperception is that AI is more objective or neutral than human decisions. However, in the end it falls back to the same place because the data from AI all come from human beings, so it is impossible to get rid of biases. What we can do is to ackknowledge it as the first step.
+
+<br/>
+
+>"People treat these kinds of algorithms as if they are making recommendations, but it’s a lot more accurate to say that they’re making predictions."
+
+I think biased AI algorithms combining with predictions could be potentially a really dangerous thing, if used in important devision-making process. An example of this kind of threat is predictive policing, as the author mentioned. It is harmful in that the whole system reinforces existing human biases, as AI is unconsciously learning from past human biases and mistakes, and build them into its own system. This ends up creating a feedback loop that creates social hierarchies.
+
+<br/>
+
+>"The bias is still there, because the AI copied it from its training data, but now it’s wrapped in a layer of hard-to-interpret AI behavior."
+
+Another part of why AI bias is always so hard to overcome is that there is always a blackbox within the huge amount of data and ways of training. Therefore, I also feel like we need to aim for a level of more transparency, and design for a better means of data collection.
+
+<br/>
+
+
+## Project 1
+**The Web as a Rube Goldberg Machine**
+
+<a href="https://kateladenheim.github.io/MDP-CreativeTech/rube-goldberg/rb-start.html" target="_blank">Link</a>
+
+<br/>
+
+
+## Project 1 Documentation
