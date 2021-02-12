@@ -66,7 +66,7 @@ This is a collaborative project with Kate Ladenheim and Tao Liu.
 
 ## Project 1 Documentation
 
-<img src="https://drive.google.com/file/d/1IyAR_A9um-_JE2in2W4ZDDWioFMgV1dS/view?usp=sharing" target="_blank">
+<img src="file:///Users/ziruling/Desktop/Creative%20Tech/Week%203/Project%201/Screen%20Shot%202021-02-12%20at%2010.49.24%20PM.png" target="_blank">
 Idea, interface sketch, technical flow chart, & APIs
 
 <img src="https://drive.google.com/file/d/1uAVyiIy6EkuD-VOgqCXAKznE58yGJ4eL/view?usp=sharing" target="_blank">
