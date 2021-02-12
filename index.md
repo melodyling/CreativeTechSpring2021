@@ -68,12 +68,15 @@ This is a collaborative project with Kate Ladenheim and Tao Liu.
 
 <img src="rube-goldberg/img/proposal.png" target="_blank">
 Idea, interface sketch, technical flow chart, & APIs
+<br/>
 
 <img src="rube-goldberg/img/web_test.png" target="_blank">
 Web interface test of weather (Open Weather Map) & news (NY Times)
+<br/>
 
 <img src="rube-goldberg/img/ifttt_test.png" target="_blank">
 IFTTT test (web hook -> Twitter -> Slack)
+<br/>
 
 <br/>
 
@@ -82,6 +85,7 @@ IFTTT test (web hook -> Twitter -> Slack)
 <a href="https://github.com/melodyling/CreativeTechSpring2021/tree/gh-pages/rube-goldberg/code" target="_blank">Link</a>
 
 <br/>
+
 
 
 ## Project 1 Reflection
