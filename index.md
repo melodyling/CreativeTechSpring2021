@@ -78,11 +78,13 @@ IFTTT test (web hook -> Twitter -> Slack)
 <br/>
 
 
+
 ## Project 1 Reflection
 
 This is an interesting project to me as it's the first time I see the web having the ability to create something more aesthetic/mechanical/illogical instead of functional, and I see the beauty within it. At the same time, as internet connects people at their fingertips instantly in an unprecedented way, I find the concept of individual in relation to the larger world worth of more exploration. As we connect world news and weather with individual's emotional journey, I found the individual within a larger context more so than ever in that there's a subtle relation between them that is situational, even in a chaotic way that doesn't make sense.
 
 <br/>
+
 
 
 # Week 4
