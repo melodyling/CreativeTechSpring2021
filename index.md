@@ -66,17 +66,22 @@ This is a collaborative project with Kate Ladenheim and Tao Liu.
 
 ## Project 1 Documentation
 
-<img src="file:///Users/ziruling/Desktop/Creative%20Tech/Week%203/Project%201/Screen%20Shot%202021-02-12%20at%2010.49.24%20PM.png" target="_blank">
+<img src="rube-goldberg/img/proposal.png" target="_blank">
 Idea, interface sketch, technical flow chart, & APIs
 
-<img src="https://drive.google.com/file/d/1uAVyiIy6EkuD-VOgqCXAKznE58yGJ4eL/view?usp=sharing" target="_blank">
+<img src="rube-goldberg/img/web_test.png" target="_blank">
 Web interface test of weather (Open Weather Map) & news (NY Times)
 
-<img src="https://drive.google.com/file/d/1o2IgCptESNBTntb-2U9ux5dIiyY56O82/view?usp=sharing" target="_blank">
+<img src="rube-goldberg/img/ifttt_test.png" target="_blank">
 IFTTT test (web hook -> Twitter -> Slack)
 
 <br/>
 
+
+## Project 1 Code
+<a href="https://github.com/melodyling/CreativeTechSpring2021/tree/gh-pages/rube-goldberg/code" target="_blank">Link</a>
+
+<br/>
 
 
 ## Project 1 Reflection
