@@ -1,33 +1,26 @@
-# Week 2
+# Week 4
 
 ## Reading Response
-**Programming Design Systems**
+**Notes on Failure**
 
->There is a century-long bond between the field of design and new advances in technology, and if graphic designers do not become fluent in this new digital reality, they will become irrelevant.
+>If despair is - as I believe it to be - as absurd a state of the soul as euphoria, who can protest that it feels more substantial, more reliable, less out of scale with the human environment-? When it was observed to T. S. Eliot that most critics are failed writers, Eliot replied: "But so are most writers."
 
-I found this statement interesting as it speaks to designers' presumed responsibility adapting to new technologies and tools as a way of "staying relevant". Indeed, the languages of graphic design and other forms inevitably evolve with the emergence of new media and different affordances, and how people access content become different. However, I feel like designers should also not take a passive standpoint adapting to new digital realities whenever something new come out, but actively influence the emergences of these new media as intentional design choices as well.  
-
-<br/>
-
->Design systems are especially interesting today, because digital products are systems, and designers who code are no longer confined to the creation of design systems that end up in printed manuals.
-
-It's interesting to see how digital products are inherently related to systems. As codes have logics and systems of their own, it is an excellent way to use the thinking in coding and apply it to the design of systems. To me, this kind of systematic thinking in code potentially pushes the movement of designing in systems as well. The emergence of digitized design systems, and coding systems such as p5 used in graphic languages are great examples.  
+I simply love the language of Joyce Carol Oates after reading this, in that she explains the process of creation as a form of internal energy in a beautiful way. I love how she compares despair with euphoria as both possessing an excessive amount of energy, and it is this form of energy itself that pushes one to contiue writing and creation. It is almost existential in a way that it speaks so fundamentally towards a naturally ontological state of human beings - that failure is creation itself.
 
 <br/>
 
->Meta-design is much more difficult than design; it is easier to draw something than to explain how to draw it. […] However, once we have successfully explained how to draw something in a sufficiently general manner, the same explanation will work for related shapes, in different circumstances; so the time spent in formulating a precise explanation turns out to be worth it.
+>In this, the art of reading hardly differs from the art of writing, in that its most intense pleasures and pains must remain private, and cannot be communicated to others. Our secret affinities remain secret even to ourselves... we fall in love with certain works of art, as we fall in love with certain individuals, for no very clear motive.
 
-I just want to re-quote this one - the logic of designing a system of logic behind a thing is so much harder than designing a thing itself. However, it speaks largely to the resulting efficiency and seamless workflow that it turns out. In the age of mass production, this movement seems to be self-justifiable on its own.  
+After reading this I am really keen on learning more on the critical theory of emotions - how they become a driving force towards one's identity and how it creates interesting tensions towards the opposition / inversion between social relationships. Looks like there's always a tension between the most authentic self and "the others", because we long for the ultimate understanding at the same time when we are fearful of being exposed from privacy. To me, art and writing are always channels for expression to reconcile this contradiction.
+
+<br/>
+
+>This insatiable desire to write something before I die, this ravaging sense of the shortness and feverishness of life, make me cling ... to my one anchor.
+
+I just want to highlight this quote from Virginia Woolf.. so beautifully written.
 
 <br/>
 
-
-## Project Proposal & System Diagram
-**The Web as a Rube Goldberg Machine**
-
-<a href="https://miro.com/app/board/o9J_lXZSoVM=/" target="_blank">Link to Board</a>
-
-<br/>
 
 
 # Week 3
@@ -96,25 +89,34 @@ This is an interesting project to me as it's the first time I see the web having
 
 
 
-# Week 4
+# Week 2
 
 ## Reading Response
-**Notes on Failure**
+**Programming Design Systems**
 
->If despair is - as I believe it to be - as absurd a state of the soul as euphoria, who can protest that it feels more substantial, more reliable, less out of scale with the human environment-? When it was observed to T. S. Eliot that most critics are failed writers, Eliot replied: "But so are most writers."
+>There is a century-long bond between the field of design and new advances in technology, and if graphic designers do not become fluent in this new digital reality, they will become irrelevant.
 
-I simply love the language of Joyce Carol Oates after reading this, in that she explains the process of creation as a form of internal energy in a beautiful way. I love how she compares despair with euphoria as both possessing an excessive amount of energy, and it is this form of energy itself that pushes one to contiue writing and creation. It is almost existential in a way that it speaks so fundamentally towards a naturally ontological state of human beings - that failure is creation itself.
-
-<br/>
-
->In this, the art of reading hardly differs from the art of writing, in that its most intense pleasures and pains must remain private, and cannot be communicated to others. Our secret affinities remain secret even to ourselves... we fall in love with certain works of art, as we fall in love with certain individuals, for no very clear motive.
-
-After reading this I am really keen on learning more on the critical theory of emotions - how they become a driving force towards one's identity and how it creates interesting tensions towards the opposition / inversion between social relationships. Looks like there's always a tension between the most authentic self and "the others", because we long for the ultimate understanding at the same time when we are fearful of being exposed from privacy. To me, art and writing are always channels for expression to reconcile this contradiction.
+I found this statement interesting as it speaks to designers' presumed responsibility adapting to new technologies and tools as a way of "staying relevant". Indeed, the languages of graphic design and other forms inevitably evolve with the emergence of new media and different affordances, and how people access content become different. However, I feel like designers should also not take a passive standpoint adapting to new digital realities whenever something new come out, but actively influence the emergences of these new media as intentional design choices as well.  
 
 <br/>
 
->This insatiable desire to write something before I die, this ravaging sense of the shortness and feverishness of life, make me cling ... to my one anchor.
+>Design systems are especially interesting today, because digital products are systems, and designers who code are no longer confined to the creation of design systems that end up in printed manuals.
 
-I just want to highlight this quote from Virginia Woolf.. so beautifully written.
+It's interesting to see how digital products are inherently related to systems. As codes have logics and systems of their own, it is an excellent way to use the thinking in coding and apply it to the design of systems. To me, this kind of systematic thinking in code potentially pushes the movement of designing in systems as well. The emergence of digitized design systems, and coding systems such as p5 used in graphic languages are great examples.  
 
 <br/>
+
+>Meta-design is much more difficult than design; it is easier to draw something than to explain how to draw it. […] However, once we have successfully explained how to draw something in a sufficiently general manner, the same explanation will work for related shapes, in different circumstances; so the time spent in formulating a precise explanation turns out to be worth it.
+
+I just want to re-quote this one - the logic of designing a system of logic behind a thing is so much harder than designing a thing itself. However, it speaks largely to the resulting efficiency and seamless workflow that it turns out. In the age of mass production, this movement seems to be self-justifiable on its own.  
+
+<br/>
+
+
+## Project Proposal & System Diagram
+**The Web as a Rube Goldberg Machine**
+
+<a href="https://miro.com/app/board/o9J_lXZSoVM=/" target="_blank">Link to Board</a>
+
+<br/>
+
