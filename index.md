@@ -5,6 +5,20 @@
 
 >Just as zoo animals more naturally occur mixed together in ecosystems, so the systems animals described here normally connect and interact with each other and with others not illustrated here — all making up the buzzing, hooting, chirping, changing complexity in which we live.
 
+I think this quote points well to the nature of any systems - they usually are interpretations and maybe simplifications, not actual representations of realities in an unfiltered way. Each model and framework has in itself a perspective from those who made it, and it is important to recognize this. Here, I think to use the zoo as a metaphor is really clever.
+
+<br/>
+
+>A person in the system who makes a decision based on the feedback can’t change the behavior of the system that drove the current feedback; the decisions he or she makes will affect only future behavior.
+
+The latency is always something we ignore when building a system. Just like the processing of machines, economic and social situations often take time to respond as well, and human factors always contain more delay but are oftentimes underestimated. Therefore, I think this sentence is really worth point out here.
+
+<br/>
+
+>Dynamic systems studies usually are not designed to predict what will happen. Rather, they’re designed to explore what would happen, if a number of driving factors unfold in a range of different ways.
+
+It is really interesting to view the design of systems in this angle, in that they contain another layer of speculative purpose as a medium for exploration.
+
 <br/>
 
 
