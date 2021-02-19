@@ -1,3 +1,14 @@
+# Week 5
+
+## Reading Response
+**A Brief Visit to the Systems Zoo**
+
+>Just as zoo animals more naturally occur mixed together in ecosystems, so the systems animals described here normally connect and interact with each other and with others not illustrated here — all making up the buzzing, hooting, chirping, changing complexity in which we live.
+
+<br/>
+
+
+
 # Week 4
 
 ## Reading Response
