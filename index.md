@@ -5,6 +5,8 @@
 
 >Nature and culture contaminate each other. Nature and culture dissolve into each other. We exist through environments that seem to be crumbling as forms of social welfare like education, health care, social security and public works are undercut and privatized.
 
+I agree with this statement. As technology comes to the forefront, our current bio-industry really depends on "an economy of invention instead of an economy of production". Essentially what's behind the dominating narrative of biodesign is a question of "postmodern nature" - is nature designable, and can anything ever be natural anymore? Is every designable products fake, as at the opposition of nature? Just as this statement points out - nature and culture dissolve into each other at an unprecedented scale. 
+
 <br/>
 
 
@@ -12,9 +14,16 @@
 
 >Humanity's needs and consumer desires could be neatly balanced with our planet's limited resources, as our machines come to life.
 
->The question whether the ethical burden of the designed object lies with the consumer, designer, manufacturer, or shareholder remains as neglected yet relevant for design as it will be for synthetic biology and the design of living machines.
+This statement is really interesting. I've never thought of machines in this angle and it is really fascinating. Machines and AI not only calculate need based on a huge collection of datapoints from mass individuals, but creating needs and desires as well. It seems to me to be a cycle that mutually feeds into each other.
 
 <br/>
+
+>The question whether the ethical burden of the designed object lies with the consumer, designer, manufacturer, or shareholder remains as neglected yet relevant for design as it will be for synthetic biology and the design of living machines.
+
+This is something really worth thinking about because capitalism naturally dis-prioritize ethics, as long as it is profitable. Therefore, within these different social sectors, it is really unsure of where the ethical burdens fall. To me, I saw a trend of designers gradually rising to a place bridging the gap of "what can work" and "what should it be", while finding a balance between grounding in reality and applicability, speculating the future, as well as artistic appeals that tend to influence and shape mass behaviors.
+
+<br/>
+
 
 
 ## Project 2
