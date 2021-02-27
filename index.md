@@ -5,8 +5,16 @@
 
 >Nature and culture contaminate each other. Nature and culture dissolve into each other. We exist through environments that seem to be crumbling as forms of social welfare like education, health care, social security and public works are undercut and privatized.
 
+<br/>
 
 
+**Design as Machines Come to Life**
+
+>Humanity's needs and consumer desires could be neatly balanced with our planet's limited resources, as our machines come to life.
+
+>The question whether the ethical burden of the designed object lies with the consumer, designer, manufacturer, or shareholder remains as neglected yet relevant for design as it will be for synthetic biology and the design of living machines.
+
+<br/>
 
 
 
