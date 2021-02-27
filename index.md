@@ -1,3 +1,15 @@
+# Week 6
+
+## Reading Response
+**Petri Dish**
+
+>Nature and culture contaminate each other. Nature and culture dissolve into each other. We exist through environments that seem to be crumbling as forms of social welfare like education, health care, social security and public works are undercut and privatized.
+
+
+
+
+
+
 # Week 5
 
 ## Reading Response
@@ -11,7 +23,7 @@ I think this quote points well to the nature of any systems - they usually are i
 
 >A person in the system who makes a decision based on the feedback can’t change the behavior of the system that drove the current feedback; the decisions he or she makes will affect only future behavior.
 
-The latency is always something we ignore when building a system. Just like the processing of machines, economic and social situations often take time to respond as well, and human factors always contain more delay but are often times underestimated. Therefore, I think this sentence is really worth point out here.
+The latency is always something we ignore when building a system. Just like the processing of machines, economic and social situations often take time to respond as well, and human factors always contain more delay but are often times underestimated. Therefore, I think this sentence is really worth pointing out here.
 
 <br/>
 
