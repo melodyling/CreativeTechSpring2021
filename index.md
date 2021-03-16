@@ -1,3 +1,29 @@
+# Week 7
+
+## Reading Response
+**Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It**
+
+>When all these amazing people, some of whom we don’t understand at all, go online, they are going to behave as inefficiently in there as they do out there. That is awesome.
+
+I found this statement very essential because there is always an ongoing balance between diversity and efficiency, which I found everywhere. Silicon Valley narratives value efficiency really highly by promoting the extent of zero UI - meaning that good design should be seamlessly integrated into lives so that users don't feel it. However, in this trade-off, they also promote a sacrifice on diversity by attempting to make everyone the same. This essentially has a hegemonic narrative that eliminates "queerness" and prolongs the existing dominant positions and stereotypes.
+
+<br/>
+
+>You may be hiring us and that may be your name on the check, but we do not work for you. We’re coming in to solve a problem, because we believe it needs to be solved and it’s worth solving. But we work for the people being affected by that problem. Our job is to look out for them because they’re not in the room. And we will under no circumstances design anything that puts those people at risk.
+
+I think this framing of client relations could be potentially useful in the future describing the essential relation dynamics when forming a contract with clients. Any kind of contract should be based on the prerequisite of a same value system between designers and clients - which is so fundamental but people all tend to ignore that.
+
+<br/>
+
+>People don’t see the things they’re rewarded for as problems to fix.
+
+This is so essential under capitalism... which is inherently a reward system with the use of money, so that nobody feels responsible anymore to fix problems as long as they are rich, or their businesses are profitable.
+
+<br/>
+
+
+
+
 # Week 6
 
 ## Reading Response
