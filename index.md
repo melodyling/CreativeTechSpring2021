@@ -1,7 +1,7 @@
 # Week 13
 ## Project 4
 **Gesture to Sound Map**
-<iframe src="https://player.vimeo.com/video/538329989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1366" height="620" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Gesture Sound Map"></iframe>
+<iframe src="https://player.vimeo.com/video/538329989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Gesture Sound Map"></iframe>
 
 ## Project 4 Code
 <a href="https://github.com/melodyling/CreativeTechSpring2021/tree/gh-pages/gesture-to-sound" target="_blank">Link</a>
