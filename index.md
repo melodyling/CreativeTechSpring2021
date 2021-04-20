@@ -1,7 +1,8 @@
 # Week 14
--
+/
 <br/>
 
+<hr class="dashed">
 
 # Week 13
 ## Project 4
@@ -21,6 +22,7 @@ Resources: <a href="https://github.com/victordibia/handtrack.js/" target="_blank
 <br/>
 <br/>
 
+<hr class="dashed">
 
 # Week 12
 ## Project 3
@@ -32,25 +34,33 @@ Resources: <a href="https://github.com/victordibia/handtrack.js/" target="_blank
 <br/>
 <br/>
 
+<hr class="dashed">
 
 # Week 11
--
+/
 <br/>
 
+<hr class="dashed">
 
 # Week 10
--
+/
 <br/>
+
+<hr class="dashed">
 
 
 # Week 9
--
+/
 <br/>
+
+<hr class="dashed">
 
 
 # Week 8
--
+/
 <br/>
+
+<hr class="dashed">
 
 
 # Week 7
@@ -76,7 +86,7 @@ This is so essential under capitalism... which is inherently a reward system wit
 
 <br/>
 
-
+<hr class="dashed">
 
 
 # Week 6
@@ -120,7 +130,7 @@ Here are some process images:
 
 <br/>
 
-
+<hr class="dashed">
 
 # Week 5
 
@@ -145,7 +155,7 @@ It is really interesting to view the design of systems in this angle, in that th
 
 <br/>
 
-
+<hr class="dashed">
 
 # Week 4
 
@@ -170,7 +180,7 @@ I just want to highlight this quote from Virginia Woolf.. so beautifully written
 
 <br/>
 
-
+<hr class="dashed">
 
 # Week 3
 
@@ -236,7 +246,7 @@ This is an interesting project to me as it's the first time I see the web having
 
 <br/>
 
-
+<hr class="dashed">
 
 # Week 2
 
@@ -269,3 +279,8 @@ I just want to re-quote this one - the logic of designing a system of logic behi
 
 <br/>
 
+<hr class="dashed">
+
+# Week 1
+/
+<br/>
