@@ -1,7 +1,20 @@
+# Week 14
+-
+<br/>
+
+
 # Week 13
 ## Project 4
-**Gesture to Sound Map**
+**Gesture Sound Map**
 <iframe src="https://player.vimeo.com/video/538329989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Gesture Sound Map"></iframe>
+
+## Project 4 Documentation
+Concept: In this project I wanted to use gesture to control the quality of sound and produce a visual sound map as trails. Using handtrack.js and p5.sound libraries, I connected hand coordinates to ADSR and sound waves to produce sound, using x-axis as pitch and y-axis as echo. I aimed at explore the qualities of gesture and the use of body as an instrument, as well as how the expressive and poetic quality of sound can be related back to something natural as human motion.
+
+<img src="gesture-to-sound/brainstorm.png" target="_blank">
+Initial idea sketch and technical research on Miro
+
+Resources: <a href="https://github.com/victordibia/handtrack.js/" target="_blank">handtrack.js</a>, <a href="https://p5js.org/reference/#/libraries/p5.sound" target="_blank">p5.sound</a>
 
 ## Project 4 Code
 <a href="https://github.com/melodyling/CreativeTechSpring2021/tree/gh-pages/gesture-to-sound" target="_blank">Link</a>
@@ -16,8 +29,27 @@
 
 ## Project 3 Documentation
 <a href="https://ziruling.cargo.site/Copycat" target="_blank">Link</a>
+<br/>
+<br/>
 
 
+# Week 11
+-
+<br/>
+
+
+# Week 10
+-
+<br/>
+
+
+# Week 9
+-
+<br/>
+
+
+# Week 8
+-
 <br/>
 
 
@@ -78,6 +110,13 @@ This is something really worth thinking about because capitalism naturally dis-p
 ## Project 2
 **Rate My Setup**
 <iframe src="https://player.vimeo.com/video/517447246" width="800" height="600" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+## Project 2 Documentation
+Concept: In this project I used photogrammetry (Metashape Pro) to scan objects in my apartment, turned them in 3d objects and put them into a unity animation. I scanned the following: a chair, and a coffee table (with a toy on it).
+
+Here are some process images:
+<img src="ratemysetup/chair.JPG" target="_blank">
+<img src="ratemysetup/table.JPG" target="_blank">
 
 <br/>
 
