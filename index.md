@@ -122,7 +122,7 @@ This is something really worth thinking about because capitalism naturally dis-p
 <iframe src="https://player.vimeo.com/video/517447246" width="800" height="600" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Project 2 Documentation
-Concept: In this project I used photogrammetry (Metashape Pro) to scan objects in my apartment, turned them in 3d objects and put them into a unity animation. I scanned the following: a chair, and a coffee table (with a toy on it).
+Concept: In this project I used photogrammetry (Metashape Pro) to scan objects in my apartment, turned them in 3d objects and put them into a unity animation. The 3D scene is aimed at recreating a feeling of traveling and dreaming in space and having a super-eye surveilling on the living creatures. I scanned the following: a chair, and a coffee table (with a toy on it) - into 3d environment.
 
 Here are some process images:
 <img src="ratemysetup/chair.JPG" target="_blank">
